@@ -1,0 +1,412 @@
+{
+  "name": "android_large_1",
+  "version": 33,
+  "source-key": {
+    "type": "figma",
+    "file": "UYvpiqGeo5kKjuDKmUesxa",
+    "node": "11:2",
+    "version": "5861780663",
+    "component-id": "f01abe2f8c6fdd22ceeabbec6618fee2f3871c21"
+  },
+  "default": "Android Large - 1",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 2"
+      },
+      {
+        "type": "group",
+        "id": "Frame 56"
+      },
+      {
+        "type": "image",
+        "id": "Rectangle 1"
+      },
+      {
+        "type": "text",
+        "id": "Режим Зеленского привел Украину к катастрофе, заявил Арестович"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 3"
+      },
+      {
+        "type": "image",
+        "id": "image 2"
+      },
+      {
+        "type": "text",
+        "id": "«Пригласил в гости, чтобы исправить оценку» Как российский учитель безнаказанно совращал и спаивал своих учеников"
+      },
+      {
+        "type": "vector",
+        "id": "Rectangle 4"
+      },
+      {
+        "type": "image",
+        "id": "image 1"
+      },
+      {
+        "type": "text",
+        "id": "Злостное нападение котов на хомяков"
+      }
+    ],
+    "modes": {
+      "Android Large - 1": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": false,
+            "children": [
+              "Rectangle 2",
+              "Frame 56",
+              "Rectangle 1",
+              "Режим Зеленского привел Украину к катастрофе, заявил Арестович",
+              "Rectangle 3",
+              "image 2",
+              "«Пригласил в гости, чтобы исправить оценку» Как российский учитель безнаказанно совращал и спаивал своих учеников"
+            ],
+            "fills": [
+              {
+                "color": {},
+                "opacity": 1.0,
+                "fill-type": "lineargradient",
+                "blend-mode": "normal",
+                "color-stops": [
+                  {
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 16.666666666666668,
+                      "saturation": 1.0,
+                      "value": 0.1411764705882353
+                    },
+                    "color-stop-position": 0.46
+                  },
+                  {
+                    "color": {
+                      "alpha": 1.0,
+                      "hue": 97.41176470588235,
+                      "saturation": 1.0,
+                      "value": 1.0
+                    },
+                    "color-stop-position": 1.0
+                  }
+                ],
+                "gradient-handle-positions": [
+                  {
+                    "x": 0.5,
+                    "y": 0.0
+                  },
+                  {
+                    "x": 0.5,
+                    "y": 1.0
+                  },
+                  {
+                    "x": 0.0,
+                    "y": 0.0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "Rectangle 2",
+            "border-radius": 20.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 10.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 21.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 340.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 420.0
+              }
+            },
+            "vector-content": "rectangle_2.svg"
+          },
+          {
+            "id": "Frame 56",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 10.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 457.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 340.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 420.0
+              }
+            },
+            "is-structured": false,
+            "children": [
+              "Rectangle 4",
+              "image 1",
+              "Злостное нападение котов на хомяков"
+            ],
+            "clip-content": false
+          },
+          {
+            "id": "Rectangle 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 36.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 319.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 295.0
+              }
+            },
+            "image-content": "rectangle_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Режим Зеленского привел Украину к катастрофе, заявил Арестович",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 20.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 366.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 319.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 37.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.05069124423963129,
+              "value": 0.8509803921568627
+            },
+            "text-content": "Режим Зеленского привел Украину к катастрофе, заявил Арестович",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 17.0,
+            "letter-spacing": -0.40799999237060547,
+            "line-height": 1.1764705657958985,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 3",
+            "border-radius": 20.0,
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 14.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 912.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 340.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 420.0
+              }
+            },
+            "vector-content": "rectangle_3.svg"
+          },
+          {
+            "id": "image 2",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 31.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 931.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 309.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 173.0
+              }
+            },
+            "image-content": "image_2.png",
+            "scale": "cover"
+          },
+          {
+            "id": "«Пригласил в гости, чтобы исправить оценку» Как российский учитель безнаказанно совращал и спаивал своих учеников",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 29.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 1118.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 310.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 198.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "«Пригласил в гости, чтобы исправить оценку» Как российский учитель безнаказанно совращал и спаивал своих учеников",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 17.0,
+            "letter-spacing": -0.40799999237060547,
+            "line-height": 1.2941175842285155,
+            "typeface": "Inter"
+          },
+          {
+            "id": "Rectangle 4",
+            "border-radius": 20.0,
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 340.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 420.0
+              }
+            },
+            "vector-content": "rectangle_4.svg"
+          },
+          {
+            "id": "image 1",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 18.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 18.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 312.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 293.0
+              }
+            },
+            "image-content": "image_1.png",
+            "scale": "cover"
+          },
+          {
+            "id": "Злостное нападение котов на хомяков",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": 32.0
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": 332.0
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": 283.0
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": 73.0
+              }
+            },
+            "color": {
+              "alpha": 1.0,
+              "hue": 0.0,
+              "saturation": 0.0,
+              "value": 1.0
+            },
+            "text-content": "Злостное нападение котов на хомяков ",
+            "overflow": "visible",
+            "max-lines": -1,
+            "text-size": 17.0,
+            "letter-spacing": -0.40799999237060547,
+            "line-height": 1.2941175842285155,
+            "typeface": "Inter"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "Android Large - 1",
+      "size": {
+        "width": 360.0,
+        "height": 1400.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
